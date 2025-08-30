@@ -54,6 +54,8 @@ Se estiver rodando em **Node.js**, basta abrir o terminal na pasta do projeto e 
 ```bash
 node enigma.js
 
-📜 Licença
+---
+
+## 📜 Licença
 
 Este projeto é apenas para fins educacionais e de portfólio.

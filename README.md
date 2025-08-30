@@ -53,6 +53,7 @@ Se estiver rodando em **Node.js**, basta abrir o terminal na pasta do projeto e 
 
 ```bash
 node enigma.js
+```
 
 ---
 
